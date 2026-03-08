@@ -12,7 +12,8 @@
 
 ### Mechanics
 - [Oscillator | JSXGraph share](https://jsxgraph.uni-bayreuth.de/share/example/oscillator)
-  - [Modeling and Simulation of Mass Spring Damper and Mass Spring System in MATLAB #matlab #modelling - YouTube](https://www.youtube.com/shorts/r8G3XRBn24s)  
+  - [Modeling and Simulation of Mass Spring Damper and Mass Spring System in MATLAB #matlab #modelling - YouTube](https://www.youtube.com/shorts/r8G3XRBn24s)
+- [弹簧-阻尼-质量二阶系统完整分析（理论+Python仿真版）_由质量弹簧阻尼组成的二阶系统-CSDN博客](https://cypher.blog.csdn.net/article/details/158429137)
 
 ### Economics
 - [Area of a Triangle (assessment) | JSXGraph share](https://jsxgraph.uni-bayreuth.de/share/example/area-of-a-triangle)
